@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Olá, eu sou o Lúcio Cauper</h1>
+<h1 align="center">Olá, eu sou Lúcio Cauper</h1>
 
 <p align="center">
   <b>Designer e desenvolvedor front-end</b> · Bacharel em Sistemas de Informação (UFC) · Mestrando em Ciência da Computação (UECE)
