@@ -85,6 +85,8 @@ Identidade visual, branding, materiais de eventos e infográficos: o portfólio 
 ---
 
 <p align="center">
+  <!--
   <a href="https://github.com/luciocauper"><img src="https://github-stats-extended.vercel.app/api?username=luciocauper&show_icons=true&hide_border=true&rank_icon=github&locale=pt-br" alt="GitHub stats" height="165"></a>
+  -->
   <a href="https://github.com/luciocauper"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luciocauper&layout=compact&langs_count=6&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="165"></a>
 </p>
