@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **luciocauper/luciocauper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Olá, eu sou o Lúcio Cauper 👋</h1>
+<h1 align="center">Olá, eu sou o Lúcio Cauper</h1>
 
 <p align="center">
   <b>Designer e desenvolvedor front-end</b> · Bacharel em Sistemas de Informação (UFC) · Mestrando em Ciência da Computação (UECE)
@@ -24,6 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/lucio-cauper/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/lciocauper"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="http://lattes.cnpq.br/9538592376512405"><img src="https://img.shields.io/badge/Lattes-005C9E?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes"></a>
   <a href="mailto:luciofranca9014@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
@@ -31,10 +30,10 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 Sobre mim
 
-Trabalho na interseção entre **design** e **tecnologia**. Venho do design gráfico, com identidade visual, direção criativa e visualização de dados, e levo esse olhar para o desenvolvimento de interfaces web com **React** e **Next.js**.
+Trabalho na interseção entre **design** e **tecnologia**. Trabalho com design gráfico com identidade visual, direção criativa e visualização de dados, e levo esse olhar para o desenvolvimento de interfaces web com **React** e **Next.js**.
 
 - 🎓 Mestrando em **Ciência da Computação** na UECE
-- 🏢 Técnico de TI na **Fundação Cearense de Pesquisa e Cultura (FCPC)**
+- 🏢 Técnico de TI em projetos da **Universidade Federal do Ceará(UFC)**
 - 🎨 Fui diretor criativo do **FIT – Fórum de Inovação e Tecnologia** (UFC Crateús)
 - 🏆 **Melhor Trabalho** nos Encontros Universitários 2025 (modalidade Pitch, Computação e TI) com o curso *Design Lab*, sobre boas práticas de design para profissionais de TI
 - 📍 Fortaleza, CE, Brasil
